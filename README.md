@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile!)
+![Profile Banner](![Profile Banner](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGJhY2tncm91bmR8ZW58MHx8fHwxNjI3NTY2NDM3&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## About Me
 
-Hi, I'm John Doe! I'm a software developer with a passion for creating innovative solutions and learning new technologies.
+Hi, I'm Omkar Sawant! I'm a software developer with a passion for creating innovative solutions and learning new technologies.
 
 - 🔭 I’m currently working on [DSA](https://github.com/your-repo-link)
 - 🌱 I’m currently learning Java, Python, and JavaScript
@@ -25,12 +25,11 @@ Hi, I'm John Doe! I'm a software developer with a passion for creating innovativ
 
 ## GitHub Stats
 
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarsawant0034&show_icons=true&theme=radical)
+![omakar sawant's stats](https://github-readme-stats.vercel.app/api?username=omkarsawant0034&show_icons=true&theme=radical)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-omkar-sawant9114)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/omkar-sawant9114)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 
 ## Profiles

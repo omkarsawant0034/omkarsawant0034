@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](![Profile Banner](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGJhY2tncm91bmR8ZW58MHx8fHwxNjI3NTY2NDM3&ixlib=rb-1.2.1&q=80&w=1080)
+![Profile Banner](https://github.com/omkarsawant0034/omkarsawant0034/blob/7e8476e589dcfb1bf3557750cb822fdadf79de59/Omkar%20Sawant%20(3).jpg)
 
 ## About Me
 
